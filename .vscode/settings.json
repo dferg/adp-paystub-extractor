@@ -1,0 +1,5 @@
+{
+    "python.formatting.provider": "ruff",
+    "editor.formatOnSave": true,
+    "python.formatting.ruffArgs": [ ]
+}
